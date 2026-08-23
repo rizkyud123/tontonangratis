@@ -1,0 +1,6 @@
+{
+  "name": "Tontonan Gratis",
+  "description": "Platform streaming film gratis modern ala Netflix dengan pemutar video embed, Live Streaming TV 24/7, Pencarian Film YouTube API, Adsterra Ads, dan Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
