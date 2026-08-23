@@ -1,6 +1,0 @@
-{
-  "name": "Tontonan Gratis",
-  "description": "Platform streaming film gratis modern ala Netflix dengan pemutar video embed terintegrasi, shortlink generator, social share, dan admin panel.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
